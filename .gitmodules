@@ -1,0 +1,3 @@
+[submodule "www.submarinecablemap.com"]
+	path = www.submarinecablemap.com
+	url = git@github.com:telegeography/www.submarinecablemap.com.git
